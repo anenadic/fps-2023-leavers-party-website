@@ -15,8 +15,8 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "Forest Park Prep School 2023 Leavers Party"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Forest Park Prep School 2023 Leavers"
