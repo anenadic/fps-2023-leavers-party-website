@@ -215,7 +215,7 @@
   }
 
   .archive__item-excerpt {
-    display: none;
+    display: block;
 
     @include breakpoint($medium) {
       display: block;
