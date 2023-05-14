@@ -1,16 +1,30 @@
 ---
 layout: archive
+entries_layout: grid
 ---
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">Party Programme</h3>
+  <div>18:00 Start </div>
+  <div>18:00 - 19:00 Activities @ Fun Stations </div>
+  <div>19:00 Pizza arrives </div>
+  <div>18:00 - 19:00 Activities @ Fun Stations </div>
+  <div>20:30 End </div>
+<h3 class="archive__subtitle">Fun Stations</h3>
+{% assign fun-stations = site.data.fun-stations %}
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=fun-stations sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
 
+{% comment %}
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
+{% endcomment %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">

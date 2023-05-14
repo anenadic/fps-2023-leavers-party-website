@@ -1,0 +1,33 @@
+# fun stations at the party
+  -
+    title: "Photo Booth"
+    excerpt: "Make some funny pictures in the photo booth"
+    header:
+        image: /assets/images/unsplash-gallery-image-1.jpg
+        teaser: assets/images/unsplash-gallery-image-1-th.jpg
+    sidebar:
+    gallery:
+  -
+    title: "Music Station"
+    excerpt: "DJ Dunja will entertain you tonight"
+    header:
+      image: /assets/images/unsplash-gallery-image-2.jpg
+      teaser: assets/images/unsplash-gallery-image-2-th.jpg
+    sidebar:
+    gallery:
+  -
+    title: "Pick 'n' Mix Sweets Station"
+    excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+    header:
+      image: /assets/images/foo-bar-identity-th.jpg
+      teaser: assets/images/foo-bar-identity-th.jpg
+    sidebar:
+    gallery:
+  -
+    title: "Guess Who?"
+    excerpt: "Guess which of your friend it is from a photo of them as a child"
+    header:
+      image: /assets/images/unsplash-gallery-image-1.jpg
+      teaser: assets/images/unsplash-gallery-image-1-th.jpg
+    sidebar:
+    gallery:
