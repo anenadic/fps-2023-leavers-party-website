@@ -1,29 +1,5 @@
 ---
 layout: archive
-entries_layout: grid
 ---
 
-
-<section id="party-programme">
-  <h2 class="archive__subtitle">Party Programme</h2>
-  <div>18:00 Start </div>
-  <div>18:00 - 19:00 Activities @ Fun Stations </div>
-  <div>19:00 Pizza arrives </div>
-  <div>18:00 - 19:00 Activities @ Fun Stations </div>
-  <div>20:30 End </div>
-</section>
-
-<section id="fun-stations">
-  <h2 class="archive__subtitle">Fun Stations</h2>
-  {% assign fun-stations = site.data.fun-stations %}
-  {% assign entries_layout = page.entries_layout | default: 'grid' %}
-  <div class="entries-{{ entries_layout }}">
-    {% include documents-collection.html collection=fun-stations sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
-  </div>
-</section>
-
-<section id="photo-album">
-  <h2 class="archive__subtitle">Photo Album</h2>
-</section>
-
-
+{{ content }}

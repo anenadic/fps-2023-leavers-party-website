@@ -5,5 +5,35 @@ header:
     overlay_color: "#EEEEEE"
 #    overlay_image: "/assets/images/concert-pixabay.jpg"
     overlay_image: "/assets/images/confetti-blurred-background.jpg"
-title: "Forest Park Prep School 2023 Leavers Party"
+title: "Forest Park School 2023 Leavers Party"
+entries_layout: grid
+
 ---
+
+
+<section id="party-programme">
+    <h2 class="archive__subtitle" style="font-size: 1.5em;">Party Programme</h2>
+    <h3>Date & time</h3>
+        <div>Friday, 7 July 2023, 18:00 - 20:30 </div>
+    <h3>Location</h3>
+    <div>Forest Park School Main Playground</div>
+    <h3>Schedule</h3>
+    <div>18:00 Start </div>
+    <div>18:00 - 19:00 Activities @ Fun Stations </div>
+    <div>19:00 Pizza arrives </div>
+    <div>19:30 - 20:30 Activities @ Fun Stations </div>
+    <div>20:30 End </div>
+</section>
+
+<section id="fun-stations">
+    <h2 class="archive__subtitle" style="font-size: 1.5em;">Fun Stations</h2>
+    {% assign fun-stations = site.data.fun-stations %}
+    {% assign entries_layout = page.entries_layout | default: 'grid' %}
+    <div class="entries-{{ entries_layout }}">
+        {% include documents-collection.html collection=fun-stations sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+    </div>
+</section>
+
+<section id="photo-album">
+    <h2 class="archive__subtitle" style="font-size: 1.5em;">Photo Album</h2>
+</section>

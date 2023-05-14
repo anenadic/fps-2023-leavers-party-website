@@ -8,15 +8,15 @@
     sidebar:
     gallery:
   -
-    title: "Music Station"
-    excerpt: "DJ Dunja will entertain you tonight"
+    title: "Music & Dance"
+    excerpt: "DJ THOMPSON IN DA HOUSE will entertain you tonight"
     header:
       image: /assets/images/dj-night-life-night-club-rave.jpg
       teaser: assets/images/dj-night-life-night-club-rave.jpg
     sidebar:
     gallery:
   -
-    title: "Pick 'n' Mix Sweets Station"
+    title: "Pick 'n' Mix Sweets"
     excerpt: "Choose your favourite sweets"
     header:
       image: /assets/images/fruit-gums-mix-sweetness-colorful.jpg
@@ -27,7 +27,7 @@
     title: "Guess Who?"
     excerpt: "Guess which of your friend it is from a photo of them as a baby"
     header:
-      image: /assets/images/baby-feet.png
-      teaser: assets/images/baby-feet.png
+      image: /assets/images/baby-feet-th.png
+      teaser: assets/images/baby-feet-th.png
     sidebar:
     gallery:
