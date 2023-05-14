@@ -1,7 +1,7 @@
 # fun stations at the party
   -
     title: "Photo Booth"
-    excerpt: "Make some funny pictures in the photo booth"
+    excerpt: "Make some funny pictures with your friends in the photo booth"
     header:
         image: /assets/images/unsplash-gallery-image-1.jpg
         teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -17,7 +17,7 @@
     gallery:
   -
     title: "Pick 'n' Mix Sweets Station"
-    excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+    excerpt: "Choose your favourite sweets"
     header:
       image: /assets/images/foo-bar-identity-th.jpg
       teaser: assets/images/foo-bar-identity-th.jpg
@@ -25,7 +25,7 @@
     gallery:
   -
     title: "Guess Who?"
-    excerpt: "Guess which of your friend it is from a photo of them as a child"
+    excerpt: "Guess which of your friend it is from a photo of them as a baby"
     header:
       image: /assets/images/unsplash-gallery-image-1.jpg
       teaser: assets/images/unsplash-gallery-image-1-th.jpg
