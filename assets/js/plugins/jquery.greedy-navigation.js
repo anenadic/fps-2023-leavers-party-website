@@ -124,8 +124,4 @@ $(function() {
   // if page does not have a logo just check
   } else check();
 
-  $("nav.greedy-nav .hidden-links a").click(function () {
-    $btn.removeClass('close');
-  });
-  
 });
