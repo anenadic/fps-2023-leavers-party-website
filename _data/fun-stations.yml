@@ -3,7 +3,7 @@
     title: "Photo Booth"
     excerpt: "Make some funny pictures with your friends in the photo booth"
     header:
-        image: /assets/images/photo-box.jpg
+        image: /assets/images/photo-box-2.png
         teaser: assets/images/photo-box-2-th.png
     sidebar:
     gallery:
@@ -11,23 +11,23 @@
     title: "Music & Dance"
     excerpt: "Entertainment provided by DJ Thompson"
     header:
-      image: /assets/images/dj-night-life-night-club-rave.jpg
-      teaser: assets/images/dj-night-life-night-club-rave.jpg
+      image: /assets/images/dj-night-life-night-club-rave.png
+      teaser: assets/images/dj-night-life-night-club-rave-th.png
     sidebar:
     gallery:
   -
     title: "Pick 'n' Mix"
     excerpt: "Choose your favourite sweets"
     header:
-      image: /assets/images/fruit-gums-mix-sweetness-colorful.jpg
-      teaser: assets/images/fruit-gums-mix-sweetness-colorful.jpg
+      image: /assets/images/fruit-gums-mix-sweetness-colorful.png
+      teaser: assets/images/fruit-gums-mix-sweetness-colorful-th.png
     sidebar:
     gallery:
   -
     title: "Guess Who?"
     excerpt: "Guess which of your friend it is from a photo of them as a baby"
     header:
-      image: /assets/images/baby-feet-th.png
+      image: /assets/images/baby-feet.png
       teaser: assets/images/baby-feet-th.png
     sidebar:
     gallery:
