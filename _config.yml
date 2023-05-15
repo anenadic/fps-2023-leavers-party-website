@@ -302,3 +302,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
+after_footer_scripts:
+  - /assets/js/menu-fix.js
