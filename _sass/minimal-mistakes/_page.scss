@@ -35,9 +35,10 @@ body {
   flex: 1 0 auto;
 }
 
-//.initial-content {
-//  background-color: #BCC6CC;
-//}
+.initial-content {
+  padding-bottom: 3em;
+  border-bottom: 1px solid $border-color;
+}
 
 .page {
   @include breakpoint($large) {
