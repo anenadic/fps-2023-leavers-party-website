@@ -9,7 +9,7 @@
     gallery:
   -
     title: "Music & Dance"
-    excerpt: "Entertainment provided by DJ Thompson"
+    excerpt: "Dance to your favourite tunes - entertainment provided by DJ T"
     header:
       image: /assets/images/dj-night-life-night-club-rave.png
       teaser: assets/images/dj-night-life-night-club-rave-th.png
@@ -17,7 +17,7 @@
     gallery:
   -
     title: "Pick 'n' Mix"
-    excerpt: "Choose your favourite sweets"
+    excerpt: "Choose your favourite sweets from our sweet and sour collection"
     header:
       image: /assets/images/fruit-gums-mix-sweetness-colorful.png
       teaser: assets/images/fruit-gums-mix-sweetness-colorful-th.png
