@@ -9,10 +9,42 @@
     gallery:
   -
     title: "Music & Dance"
-    excerpt: "Dance to your favourite tunes - entertainment provided by DJ T"
+    excerpt: "Dance to your favourite tunes - entertainment provided by DJ"
     header:
       image: /assets/images/dj-night-life-night-club-rave.png
       teaser: assets/images/dj-night-life-night-club-rave-th.png
+    sidebar:
+    gallery:
+  -
+    title: "Guess Who?"
+    excerpt: "Guess which of your friend it is from a photo of them as a baby"
+    header:
+      image: /assets/images/baby-feet.png
+      teaser: assets/images/feet-th.png
+    sidebar:
+    gallery:
+  -
+    title: "Balloon Arch"
+    excerpt: "Have fun with your friends under the FPS balloon arch"
+    header:
+      image: /assets/images/balloons-2.jpg
+      teaser: assets/images/balloons-th-2.jpg
+    sidebar:
+    gallery:
+  -
+    title: "Playground"
+    excerpt: "Run around once again in the familiar Forest Park School playground"
+    header:
+      image: /assets/images/fps-playground.jpg
+      teaser: assets/images/fps-playground-th.jpg
+    sidebar:
+    gallery:
+  -
+    title: "Party Food"
+    excerpt: "Enjoy a selection of pizzas, dips, snacks, cakes and drinks"
+    header:
+      image: /assets/images/cupcakes.jpg
+      teaser: assets/images/cupcakes-th.jpg
     sidebar:
     gallery:
   -
@@ -24,10 +56,10 @@
     sidebar:
     gallery:
   -
-    title: "Guess Who?"
-    excerpt: "Guess which of your friend it is from a photo of them as a baby"
+    title: "Party Bags"
+    excerpt: "Take home a party bag full of surprises"
     header:
-      image: /assets/images/baby-feet.png
-      teaser: assets/images/feet-th.png
+      image: /assets/images/party-bags.jpg
+      teaser: assets/images/party-bags-th.jpg
     sidebar:
     gallery:
